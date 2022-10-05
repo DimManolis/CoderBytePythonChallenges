@@ -3,39 +3,38 @@
 A Set of coderbyte challenges ranging from Easy to Hard for python
 
 Easy:
-
-Letter Capitalize
-First Factorial
-First Reverse
-Check Nums
-Simple Adding
-Number Reverse
-Happy Numbers
-Consonant Count
-Codeland Username Validation
-Equivalent Keypresses
-Different Cases
-H Distance
-FizzBuzz
-String Changes
-Group Totals
-Moving Median
-Star Rating
-Command Line
+1.Letter Capitalize
+2.First Factorial
+3.First Reverse
+4.Check Nums
+5.Simple Addin
+6.Number Reverse
+7.Happy Numbers
+8.Consonant Count
+9.Codeland Username Validation
+10.Equivalent Keypresses
+11.Different Cases
+12.H Distance
+13.FizzBuzz
+14.String Changes
+15.Group Totals
+16.Moving Median
+17.Star Rating
+18.Command Line
 
 Medium:
 
-Distinct List
-Number Encoding
-Stock Picker
-Max Subarray
-Missing Digit
-K Unique Characters
-Formatted Division
-Food Distribution
+1.Distinct List
+2.Number Encoding
+3.Stock Picker
+4.Max Subarray
+5.Missing Digit
+6.K Unique Characters
+7.Formatted Division
+8.Food Distribution
 
 Hard:
 
-Matching Couples
-Simple SAT
-Array Couples
+1.Matching Couples
+2.Simple SAT
+3.Array Couples
