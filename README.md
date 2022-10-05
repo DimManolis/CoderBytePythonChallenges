@@ -2,7 +2,8 @@
 
 A Set of coderbyte challenges ranging from Easy to Hard for python
 
-Easy
+Easy:
+
 Letter Capitalize
 First Factorial
 First Reverse
@@ -22,7 +23,8 @@ Moving Median
 Star Rating
 Command Line
 
-Medium
+Medium:
+
 Distinct List
 Number Encoding
 Stock Picker
@@ -32,7 +34,8 @@ K Unique Characters
 Formatted Division
 Food Distribution
 
-Hard
+Hard:
+
 Matching Couples
 Simple SAT
 Array Couples
